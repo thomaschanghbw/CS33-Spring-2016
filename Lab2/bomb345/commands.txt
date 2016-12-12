@@ -1,0 +1,5 @@
+ni - goes to next line
+gdb bomb
+b (where to breakpoint)
+r (file to read from)
+disas to disassemble the assembly

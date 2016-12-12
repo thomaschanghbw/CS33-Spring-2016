@@ -1,0 +1,11 @@
+void func(int* x)
+{
+  x++;
+  return;
+}
+
+int main()
+{
+  int a = 3;
+  func(&a);
+}
